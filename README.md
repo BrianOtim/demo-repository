@@ -1,3 +1,3 @@
 # Demo
 
-My git journey begins
+My git journey begins!
